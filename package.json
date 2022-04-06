@@ -1,0 +1,14 @@
+{
+  "name": "techspotlabs",
+  "version": "1.0.0",
+  "description": "An api for TechSpot Labs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ohene Adjei",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
